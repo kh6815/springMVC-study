@@ -24,6 +24,6 @@ public class RequestBodyStringServlet extends HttpServlet {
         resp.getWriter().write("ok");
         */
 
-        
+
     }
 }
